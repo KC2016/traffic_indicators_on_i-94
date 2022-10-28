@@ -7,11 +7,12 @@ Guided Project: Finding Heavy Traffic Indicators on I-94
 </p>
 
 Describe the project and add links
-[I-94 Interstate highway](https://en.wikipedia.org/wiki/Interstate_94)
-[UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/Metro+Interstate+Traffic+Volume)
+- [I-94 Interstate highway](https://en.wikipedia.org/wiki/Interstate_94)
+- [UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/Metro+Interstate+Traffic+Volume)
 
-What the project is about
-Your goal with this project
+What the project is about?
+
+Your goal with this project:
 
 "The goal of our analysis is to determine a few indicators of heavy traffic on I-94. These indicators can be weather type, time of the day, time of the week, etc. For instance, we may find out that the traffic is usually heavier in the summer or when it snows."
 
@@ -39,7 +40,7 @@ The code was made and run in the DataQuest platform using:
 - [pandas](https://pandas.pydata.org/)
 - [Matplotlib](https://matplotlib.org/stable/index.html)
 
-# The Dataset
+## The Dataset
 Write about the dataset
 
 Descriptions of the variables:   (Source:[
@@ -55,7 +56,7 @@ Metro Interstate Traffic Volume Data Set](https://archive.ics.uci.edu/ml/dataset
 - `date_time DateTime`: Hour of the data collected in local CST time
 - `traffic_volume`: Numeric Hourly I-94 ATR 301 reported westbound traffic volume
 
-# References
+## References
 - [Anatomy_of_a_graph](https://matplotlib.org/stable/tutorials/introductory/quick_start.html)
 - [Scatterplots-Mathisfun](https://www.mathsisfun.com/data/scatter-xy-plots.html)
 - [Scatterplort-catalogue](https://datavizcatalogue.com/methods/scatterplot.html)
