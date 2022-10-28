@@ -1,7 +1,10 @@
 # Traffic indicators on I-94  - WIP
 Guided Project: Finding Heavy Traffic Indicators on I-94
 
-![I-94](images/1200px-I-94_svg.png)
+<!-- ![I-94](images/1200px-I-94_svg.png) -->
+<p align="center">
+<img src="images/1200px-I-94_svg.png" width="200">
+</p>
 
 Describe the project and add links
 [I-94 Interstate highway](https://en.wikipedia.org/wiki/Interstate_94)
@@ -34,14 +37,26 @@ This is a guided project from the [DataQuest](https://www.dataquest.io/blog/free
 The code was made and run in the DataQuest platform using:
 - Jupyter Notebook
 - [pandas](https://pandas.pydata.org/)
-- [NumPy](https://numpy.org/)
-- [datetime](https://docs.python.org/3/library/datetime.html)
+- [Matplotlib](https://matplotlib.org/stable/index.html)
 
 # The Dataset
 Write about the dataset
 
-Descriptions of the variables:   (adapted from [link](link) and DataQuest)
+Descriptions of the variables:   (Source:[
+Metro Interstate Traffic Volume Data Set](https://archive.ics.uci.edu/ml/datasets/Metro+Interstate+Traffic+Volume))
 
-- `var1`: description
-- `var2`: description
+- `holiday`: Categorical US National holidays plus regional holiday, Minnesota State Fair
+- `temp`: Numeric Average temp in kelvin
+- `rain_1h`: Numeric Amount in mm of rain that occurred in the hour
+- `snow_1h`: Numeric Amount in mm of snow that occurred in the hour
+- `clouds_all`: Numeric Percentage of cloud cover
+- `weather_main`: Categorical Short textual description of the current weather
+-`weather_description`: Categorical Longer textual description of the current weather
+- `date_time DateTime`: Hour of the data collected in local CST time
+- `traffic_volume`: Numeric Hourly I-94 ATR 301 reported westbound traffic volume
 
+# References
+- [Anatomy_of_a_graph](https://matplotlib.org/stable/tutorials/introductory/quick_start.html)
+- [Scatterplots-Mathisfun](https://www.mathsisfun.com/data/scatter-xy-plots.html)
+- [Scatterplort-catalogue](https://datavizcatalogue.com/methods/scatterplot.html)
+- [Correlation-Mathisfun](https://www.mathsisfun.com/data/correlation.html)
