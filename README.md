@@ -52,7 +52,7 @@ Metro Interstate Traffic Volume Data Set](https://archive.ics.uci.edu/ml/dataset
 - `snow_1h`: Numeric Amount in mm of snow that occurred in the hour
 - `clouds_all`: Numeric Percentage of cloud cover
 - `weather_main`: Categorical Short textual description of the current weather
--`weather_description`: Categorical Longer textual description of the current weather
+- `weather_description`: Categorical Longer textual description of the current weather
 - `date_time DateTime`: Hour of the data collected in local CST time
 - `traffic_volume`: Numeric Hourly I-94 ATR 301 reported westbound traffic volume
 
