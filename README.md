@@ -18,10 +18,10 @@ Your goal with this project:
 
 ### What was done?
 
-- Cleaning
-- Removing outliers
-- Fixing data types
-- Exploring price in function of brands and vehicle types
+- Analyzing Traffic Volume (day  vs night, businessdays vs weekends, time of the day).
+- Finding the correlation of weather variables with the traffic volume.
+- Making data visualization: scatter, line and bar graphs.
+
 
 ### Credits
 
@@ -43,8 +43,8 @@ The code was made and run in the DataQuest platform using:
 ## The Dataset
 Write about the dataset
 
-Descriptions of the variables:   (Source:[
-Metro Interstate Traffic Volume Data Set](https://archive.ics.uci.edu/ml/datasets/Metro+Interstate+Traffic+Volume))
+Descriptions of the variables (source:[
+Metro Interstate Traffic Volume Data Set](https://archive.ics.uci.edu/ml/datasets/Metro+Interstate+Traffic+Volume)):
 
 - `holiday`: Categorical US National holidays plus regional holiday, Minnesota State Fair
 - `temp`: Numeric Average temp in kelvin
