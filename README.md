@@ -1,4 +1,4 @@
-# Traffic indicators on I-94  - WIP
+# Traffic indicators on I-94
 Guided Project: Finding Heavy Traffic Indicators on I-94
 
 <!-- ![I-94](images/1200px-I-94_svg.png) -->
