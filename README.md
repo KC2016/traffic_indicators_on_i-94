@@ -1,5 +1,5 @@
 # Traffic indicators on I-94
-Guided Project: Finding Heavy Traffic Indicators on I-94
+Finding Heavy Traffic Indicators on I-94
 
 <!-- ![I-94](images/1200px-I-94_svg.png) -->
 <p align="center">
